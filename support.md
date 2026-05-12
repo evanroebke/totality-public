@@ -11,7 +11,7 @@ Welcome, TestFlight tester! We’re excited to have you trying *Totality*, the d
 ## 📧 Contact Us
 | Purpose | How |
 |---------|-----|
-| General questions | **evanroebke@gmail.com** |
+| General questions | **evanroebke@totalityworkoutapp.com** |
 | Bug reports | Please email us |
 | Feature requests | Please email us |
 
